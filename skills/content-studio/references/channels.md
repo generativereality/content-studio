@@ -45,6 +45,10 @@ feedback, never votes.
 sentence says what it does, for whom, and how it differs from the alternative, in the directory's own
 fields and limits.
 
+**Building in public** (progress posts on any channel). Share a decision, a mistake or a lesson, each
+tied to something concrete that happened. A dump of metrics with no lesson reads as a status report and
+invites "so what?"; a number belongs only when it is the lesson.
+
 **A blog post.** Something a stranger can use even if they never try the product: a lesson, a method,
 a mistake and what fixed it. The product comes in as the way the author did it. Plan the pictures with
 the words (`copy.md` §5). For search, read `search.md`. Before it goes: every link opens, the title
