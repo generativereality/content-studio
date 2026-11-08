@@ -1,6 +1,6 @@
 {
   "name": "@generativereality/content-studio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Claude Code skill for making content well in any medium: process, craft and tool references, plus small zero-dependency scripts.",
   "license": "MIT",
   "type": "module",

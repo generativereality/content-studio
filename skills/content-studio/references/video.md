@@ -34,7 +34,13 @@ needs longer than its shot's seconds is a warning to fix, not a render to ship.
 
 ## Cut craft
 
+- **Plan the story before choosing shots.** For a trip: the way there, each day, the way back, by day
+  and place. The days get most of the time and the journey about a quarter. Mark the stretches with
+  no pictures (nights, gaps of two hours or more in the waking hours of a day with photos) before
+  cutting, so they are told with a card or a scene, not skipped without notice.
 - **Open on the most specific moment,** never a title card.
+- **When there is a recorded memo or voice, its order is a better edit than the calendar.** Follow the
+  telling, and use its word timestamps to put each photo on the word that names it.
 - **Cut on the words.** Hard cuts on the narrator's or speaker's words, using word timestamps.
 - **Punch in** toward the face or the subject (1.04 to 1.18).
 - **Real sound from real clips:** the loudest 2.5 s window of a clip, one to three times a film, ducked
@@ -113,6 +119,8 @@ real-time speed. Tone-map to SDR BT.709 first (`avconvert --preset Preset1920x10
 ## Encode and verify
 
 - Master: x264 CRF 18 at 1080p. Chat copy: H.264 720p at most about 15.5 MB. HEVC 1080p is about 10 to 16 MB.
+- **For a TV:** landscape 1080p HEVC. **For a digital photo frame:** a silent, captioned cut of 30 s or
+  less. Portrait and landscape come from the same edit: pan across faces, never letterbox.
 - Always `-movflags +faststart`, or a browser downloads the whole file before playing a frame. A `-c
   copy` concat doesn't inherit it, so name it again, and check the atom order (`moov` before `mdat`)
   rather than trusting the flag was passed. Ask what each intermediate is for: a clean master that
