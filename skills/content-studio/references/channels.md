@@ -128,6 +128,8 @@ the project has, not here.
 | Open Graph / social preview | 1200 × 630 | |
 | Product Hunt gallery | 1270 × 760 | the first image must work alone |
 | Video for chat apps (WhatsApp) | H.264 720p, at most about 15.5 MB | `+faststart` |
+| Video for a TV | landscape 1080p HEVC | from the same edit as the portrait cut; pan across faces, never letterbox |
+| Video for a digital photo frame | silent, captioned, 30 s or less | frames play without sound |
 | Short-form clip length | 15 to 45 s | the payoff before 80% of the runtime |
 
 ## Never
