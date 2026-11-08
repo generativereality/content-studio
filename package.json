@@ -1,0 +1,25 @@
+{
+  "name": "@generativereality/content-studio",
+  "version": "0.1.0",
+  "description": "A Claude Code skill for making content well in any medium: process, craft and tool references, plus small zero-dependency scripts.",
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/generativereality/content-studio.git"
+  },
+  "files": [
+    "skills/",
+    ".claude-plugin/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "check": "bash scripts/check.sh",
+    "leakcheck": "bash scripts/check-leaks.sh",
+    "sync-plugin": "bash scripts/sync-plugin.sh"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
