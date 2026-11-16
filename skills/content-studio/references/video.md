@@ -54,14 +54,34 @@ needs longer than its shot's seconds is a warning to fix, not a render to ship.
 - **Offer different styles** (social, product, scrapbook, calm) from the same material, and say which
   you'd pick and why. The person's favourite changes with the material.
 
-## Short educational reel (teaching, 30 to 45 s)
+## Short educational reel (teaching, 20 to 45 s)
 
 A reel that teaches one method. It is the format people save and send on, and the one most easily made
 badly: a post's text typed out in motion, with no voice, nothing taught and no hook, is not this format.
 
 - **Hook in the first 2 s, three parts** (`copy.md` §3, *context, pull, turn*): say what it is about,
-  then a pull (something happening to the viewer now), then the turn. The first picture shows what the
-  first words say. Read the hook alone: if a stranger can't say what the reel is about, rewrite it.
+  then a pull, then the turn. The pull is one of four: **taboo** (slightly uncomfortable to say aloud),
+  **dark** (something hidden happening to the viewer), **contradiction** (against what they believe),
+  **proof** (a real number shown). The first picture shows what the first words say. Check it against
+  the four S's: the **subject** is clear, the **stakes** are clear, the words are **simple**, the
+  sentences **short**. Read the hook alone: if a stranger can't say what the reel is about, rewrite it.
+- **Hook shapes that suit teaching** (the ones saved most often in how-to niches; pick one, write at
+  least five hooks across shapes, choose one):
+  - *Diagnosis:* "Your squats are just knee bends." / "It's not your back. It's your hips." Names the viewer's
+    mistake, then teaches the fix.
+  - *The one everyone gets wrong:* "Three steps. Number 3 is the one everyone gets wrong." Holds them
+    to the end.
+  - *Prerequisites:* "Don't try X until you can do these 5 things." The list is the lesson.
+  - *In order:* "6 steps, in this order. Don't skip one." A progression the viewer follows.
+  - *Fixed-length series:* "X in 30 seconds." The title promises the length and makes a series.
+  - *Ladder:* "Level 1 to level 4. Which one are you on?" The viewer places themselves and comments.
+  - *Hindsight:* "Twenty years in. Here's what I wish I'd known in year one." Earned authority, then rules.
+  - *Attention triggers* (`copy.md` §3) in the line right after the hook: a big result in little time,
+    a specific number, a person the viewer wants to be like.
+- **Teaching shapes:** a *wrong way, then right way* (❌ then ✅, the same move shown both ways) teaches
+  without a word and works muted; a *one problem, the obvious fix, why it breaks, what works* shape
+  suits a method for managers and teams; *application* (the method shown working on a real case or a
+  live build) beats a list with no opinion (`copy.md` §4).
 - **One method, two to four steps you can see.** Name the method early. Each step is drawn while it is
   said: the checklist appears as "write it all down" is spoken, each box ticks as its item is
   named. A step only written on screen, or only spoken, teaches half.
@@ -73,10 +93,17 @@ badly: a post's text typed out in motion, with no voice, nothing taught and no h
   after. Never an invented number for effect (SKILL rule 1).
 - **Pay the promise before 80%** of the runtime; then one line that turns it into the viewer's next
   step. No recap.
-- **Captions word by word**, bold, on screen while each word is spoken (§Captions).
+- **Captions word by word**, bold, on screen while each word is spoken, at about 5 to 10 words a
+  second (§Captions). Most viewers start muted: the hook, the steps and the payoff must read without
+  sound.
 - **The method again in the post's caption**, as the steps in a short list, so the reel is worth
   saving.
-- **End on one ask**: try it once, comment one word, follow for the next step. One, never three.
+- **End on one ask**: try it once, comment one word, follow for the next step. One, never three. A save
+  ask carries a reason to come back ("save it for the next time you…"); a share ask names one person
+  ("send it to the one on your team who…"). A comment keyword that sends a free guide is a funnel the
+  person must have set up and approved; never promise a DM nobody will send.
+- **Make it a series when it works:** the same title shape, length and look each time (`copy.md` §7),
+  so one hit becomes a format.
 
 **Build it as a timeline keyed to the voice.** Each beat is one line of narration and the animation
 that goes with it; a beat's start is where its line starts, measured from the take (`audio.md`, word
