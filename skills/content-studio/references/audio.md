@@ -12,6 +12,10 @@ listen before a voice or a bed becomes a default; a choice made on numbers alone
   someone chooses on purpose (a mock documentary, for fun).
 - **For product, teaching and promo pieces:** a voice-over is fine and often carries the cut. The
   person's own voice beats any synthetic one.
+- **"Animated" does not mean "no narration".** A request for animation, motion graphics or "no talking
+  head" in a teaching or brand piece asks how it looks, not whether it speaks. A teaching reel without a
+  voice is a post typed out in motion (`video.md`, §Short educational reel). Leave the voice out only when
+  the person says so.
 
 ## Engines (as of Nov 2026)
 

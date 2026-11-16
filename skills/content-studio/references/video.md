@@ -1,4 +1,4 @@
-# Video: demos, explainers, reels, launch clips, memory films
+# Video: demos, explainers, teaching reels, launch clips, memory films
 
 Video prefers pieces that combine real footage, stills and animation over any single one. A narrated
 slideshow is the least exciting format there is, and to many people it reads like the phone's own
@@ -53,6 +53,42 @@ needs longer than its shot's seconds is a warning to fix, not a render to ship.
 - **Lengths:** social 35 to 45 s, product 45 to 55 s, scrapbook 30 to 40 s, calm slideshow 50 to 70 s.
 - **Offer different styles** (social, product, scrapbook, calm) from the same material, and say which
   you'd pick and why. The person's favourite changes with the material.
+
+## Short educational reel (teaching, 30 to 45 s)
+
+A reel that teaches one method. It is the format people save and send on, and the one most easily made
+badly: a post's text typed out in motion, with no voice, nothing taught and no hook, is not this format.
+
+- **Hook in the first 2 s, three parts** (`copy.md` §3, *context, pull, turn*): say what it is about,
+  then a pull (something happening to the viewer now), then the turn. The first picture shows what the
+  first words say. Read the hook alone: if a stranger can't say what the reel is about, rewrite it.
+- **One method, two to four steps you can see.** Name the method early. Each step is drawn while it is
+  said: the checklist appears as "write it all down" is spoken, each box ticks as its item is
+  named. A step only written on screen, or only spoken, teaches half.
+- **Narration carries it.** The person's own recorded voice first. Otherwise a licensed narrator
+  (`audio.md`), with every first-person line ("I did this with ten clients") moved to on-screen text with
+  the person's name, because a hired voice saying "I" is speaking for them. Never a clone of a real
+  person's voice. A request for animation is not a request for silence (`audio.md`).
+- **Proof from the person's own numbers and cases**, said and shown: a real count, a real before and
+  after. Never an invented number for effect (SKILL rule 1).
+- **Pay the promise before 80%** of the runtime; then one line that turns it into the viewer's next
+  step. No recap.
+- **Captions word by word**, bold, on screen while each word is spoken (§Captions).
+- **The method again in the post's caption**, as the steps in a short list, so the reel is worth
+  saving.
+- **End on one ask**: try it once, comment one word, follow for the next step. One, never three.
+
+**Build it as a timeline keyed to the voice.** Each beat is one line of narration and the animation
+that goes with it; a beat's start is where its line starts, measured from the take (`audio.md`, word
+timings), never a fixed number of seconds. Then re-recording in the person's voice re-times every
+animation without touching the drawing. A shape that has worked: the script as beats (`id`, `say`,
+what is drawn), one voice take per beat, measured durations in a timing file, a page that draws any
+moment `t` from the beats (code-drawn shapes, real screenshots, the person's numbers), rendered frame
+by frame in headless Chrome into ffmpeg with the voice and a quiet bed, loudness to -14 LUFS, then
+transcribed back and compared with the script (§Encode and verify).
+
+**Before the gallery, check it against the person's saved examples** when they keep any (SKILL step 2):
+does the first second do what the reels they saved do? Say which of their saves it borrows the form of.
 
 ## Showing a real product
 
