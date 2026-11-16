@@ -88,6 +88,11 @@ is labelled with what it is, what it cost and how long it took, and comparable t
 Never ask them to assemble a combination of numbered parts ("T4 + body B + image 2"). An answer
 should take one tap or one sentence.
 
+**For video, the pick comes earlier:** the person approves the idea, then the script, then the
+storyboard as a contact sheet with one frame per beat, before anything is built or paid for
+(`references/video.md` §The process). The finished cut is then shown once, on a page where each note
+sits on a timestamp.
+
 The person's part is taste, true stories and opinions, never forms. Every no teaches: write the reason
 down (step 7).
 
