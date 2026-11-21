@@ -24,3 +24,5 @@ The `.sh` scripts need bash: on Windows, run them from Git Bash (which Claude Co
 | `scripts/voice-sweep.sh <file>` | the mechanical machine-prose sweep: em dashes against paragraphs, short fragments, banned words, negative-parallel shapes, drumbeat lines. Exit 0 always; read the hits |
 | `scripts/render-frames.sh <out-dir> <w> <h> <frame.html>…` | renders HTML frames to PNG with the installed Chrome/Chromium headless (macOS, Linux, Windows Git Bash) |
 | `scripts/spend.mjs add|total` | the per-piece spend ledger (`spend.jsonl` in the piece's folder) |
+| `<ACE-Step>/.venv/bin/python scripts/music-takes.py --acestep <ACE-Step> --out <dir> --caption "…" --bpm N` | music takes to pick by ear (ACE-Step 1.5, SFT model at 50 steps), each measured: peak, clipping, loudness, holes, spectral flatness; always under the memory guard (`references/audio.md` § Music) |
+| `python3 scripts/memory_guard.py [--max-gb 20] -- <command>` | runs any heavy local model job under a memory cap: refuses to start when memory or disk is short, kills the job above the cap, prints its peak. Use it for every local music, video or image model run |

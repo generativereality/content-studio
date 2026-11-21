@@ -94,6 +94,15 @@ can't hear warmth, and a line can measure well and still be wrong.
   track; hits the asked length and tempo and the quiet-intro-then-band arc. Turn on its "thinking"
   model for lyrics. Its endings are cut, not composed, so fade the last 1.6 s. Reject takes that end
   early or have a hole mid-song.
+- ⛔ **ACE-Step needs about 50 GB uncapped: run it only through `scripts/music-takes.py`**, never
+  its own scripts or a one-off of yours. Left alone it sizes itself for the whole unified memory of an
+  Apple Silicon Mac; on a 64 GB Mac already running a local language model it reached 54 GB in two
+  minutes and reset the computer three times in two days (Nov 2026). The script runs it under
+  `scripts/memory_guard.py`: refuses to start under 30 GB free memory or with a nearly full disk, sets
+  ACE-Step's 16 GB tier and small VAE chunks, kills the run above 20 GB, leaves the planning model out
+  for instrumentals (`--plan` for lyrics), and makes takes of at most 90 s: loop or extend a 60–90 s
+  take, never render 150 s in one go. A refused or killed take is the guard working; free memory and
+  run it again, never raise the cap.
 - **Hosted:** MiniMax Music 2.5 (about $0.15, sings lyrics word for word); Lyria 2 (about $0.06,
   instrumental, always 32.8 s, flat); ElevenLabs Music (about $0.58 for 70 s, pleasant, generic); Suno
   through third-party APIs has a real arrangement but an unclear rights chain. Every hosted model
