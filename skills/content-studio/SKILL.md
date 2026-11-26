@@ -76,6 +76,11 @@ angles (a story, a confession, a contrarian take, a how-to, a before and after, 
 opinion), and two or three formats. Vary the tone as well as the words. Humour is one option and never
 the default.
 
+**Hooks are filled templates, never invented.** Each hook is a proven template taken word for word
+from `references/hooks.md` or the person's own saves, with only its blanks filled; write at least ten
+before choosing. For video, every piece carries a **four-layer hook stack**: what is said, the text on
+screen, what is shown and what is heard, each a different template, all saying the same thing.
+
 Then **do the choosing yourself**. Pick the best version and finish it to the point where it could
 go out as it stands, and pick two or three real alternatives that differ in angle or format, not in
 wording. Your job is to bring the person a recommendation, not a parts list.
@@ -103,6 +108,7 @@ Make the pick properly, in its medium:
 | Making | Read |
 |---|---|
 | Words: posts, articles, pages, scripts, captions, emails to many | `references/copy.md`, `references/voice.md`, `references/channels.md` |
+| Hooks and titles for anything: the template bank and the four-layer stack | `references/hooks.md` |
 | A page meant to be found in search or cited by AI assistants | `references/search.md` |
 | Stills: thumbnails, covers, carousels, quote cards, collages, lead images | `references/stills.md` |
 | A generated picture or clip (background, scene, B-roll, restoration) | `references/generation.md` |
