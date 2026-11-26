@@ -17,7 +17,7 @@ everything between is the studio's job.
 | 0 | **Brief and references.** Who it is for, where they meet it, the one next step (`brief.md`). Study three to five videos that worked in that place, the person's own saved examples first (SKILL step 2): pacing, hook, structure, cuts per second. Keep the form, change the content. | brief, reference notes with links | |
 | 1 | **One true thing.** Problem, audience, goal and the feeling it should leave, in four lines; the one fact or moment the film exists for; every fact with its source. | one page | |
 | 2 | **The idea.** At least three ideas of different kinds (a real task followed through the product, a character story, a held talking head, a typographic essay, a montage of real output, a stillness that breaks). Cover the logo: if it would work as well for a competitor, it is not the idea yet. | three concepts, one recommended, a cost estimate | approves |
-| 3 | **Script and voice plan.** Hook (what it is about, a pull, a turn), setup, the steps, the payoff before 80% of the runtime, one ask. About 2.5 to 3 spoken words a second, one line per beat. Whose voice (`audio.md` §Narration). | script with cues, voice plan | approves |
+| 3 | **Script and voice plan.** The four-layer hook stack (say, text, show, hear), each layer a different template from `hooks.md` or the person's saves, all saying what it is about, a pull, a turn; at least ten filled before choosing. setup, the steps, the payoff before 80% of the runtime, one ask. About 2.5 to 3 spoken words a second, one line per beat. Whose voice (`audio.md` §Narration). | script with cues, voice plan | approves |
 | 4 | **Characters and world.** One look for the whole film, the cast locked before any scene is made, the places, and which real screens or footage get captured (§Characters and world). | look sheet, cast sheets, capture list | |
 | 5 | **Storyboard.** One row per beat: its role, what it makes the viewer believe, the line, the picture (described so it works with the words covered), how it hands over to the next beat, the assets and the tool for each. Never three beats of the same kind in a row; one hero moment worth a screenshot. Shown as a contact sheet, one frame per beat. | storyboard, contact sheet | approves |
 | 6 | **Animatic.** Grey shapes (rough HTML, or blocked-out 3D) timed to a scratch voice. Fix camera, timing and pacing here, where it costs nothing. | animatic | |
@@ -129,14 +129,17 @@ needs longer than its shot's seconds is a warning to fix, not a render to ship.
 A reel that teaches one method. It is the format people save and send on, and the one most easily made
 badly: a post's text typed out in motion, with no voice, nothing taught and no hook, is not this format.
 
-- **Hook in the first 2 s, three parts** (`copy.md` §3, *context, pull, turn*): say what it is about,
+- **The hook stack in the first 2 s** (`hooks.md`): say, text on screen, show and hear, each a
+  different proven template word for word, all saying the same thing; fill at least ten for the spoken
+  line before choosing, never invent one.
+- **The spoken hook in three parts** (`copy.md` §3, *context, pull, turn*): say what it is about,
   then a pull, then the turn. The pull is one of four: **taboo** (slightly uncomfortable to say aloud),
   **dark** (something hidden happening to the viewer), **contradiction** (against what they believe),
   **proof** (a real number shown). The first picture shows what the first words say. Check it against
   the four S's: the **subject** is clear, the **stakes** are clear, the words are **simple**, the
   sentences **short**. Read the hook alone: if a stranger can't say what the reel is about, rewrite it.
-- **Hook shapes that suit teaching** (the ones saved most often in how-to niches; pick one, write at
-  least five hooks across shapes, choose one):
+- **Hook shapes that suit teaching** (the ones saved most often in how-to niches; the templates
+  themselves are in `hooks.md`, these say which suit a lesson):
   - *Diagnosis:* "Your squats are just knee bends." / "It's not your back. It's your hips." Names the viewer's
     mistake, then teaches the fix.
   - *The one everyone gets wrong:* "Three steps. Number 3 is the one everyone gets wrong." Holds them

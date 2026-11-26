@@ -50,6 +50,9 @@ invent a channel, a link or a number while studying. Write *"not verified"*.
 what this is about and why it matters to this reader, in short plain words. A great hook isn't
 catchy; it is a trap the reader walks into because it is about them.
 
+**Take the hook from `hooks.md`**, the bank of proven templates kept word for word, or from the
+person's own saves; fill its blanks and change nothing else. The shapes below say why each kind works.
+
 Formulas, one per piece:
 
 - **Context, pull, turn:** line one says exactly what this is; then a pull (something hidden that is
