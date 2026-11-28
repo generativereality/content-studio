@@ -15,8 +15,10 @@ page still follow `copy.md` and `voice.md`; the person's own words come first.
 
 ## 0. Load the design skills before anything else
 
-Look at what is installed (the project's skills folder and the user's global one) and load every
-design skill that fits **before** the first sketch, and name them in the brief. If a craft the brief
+Look at what is installed (the project's skills folder, `.claude/skills/`, and the user's global one)
+and load every design skill that fits **before** the first sketch, and name them in the brief. **A
+skill that is already there is simply loaded: no question and no reinstall** (a project, an app or a
+team may ship them in the project's folder for exactly this). If a craft the brief
 needs has no skill and no reference here, say so in the brief and stop; never improvise a craft the
 studio doesn't have. Kinds worth loading when present:
 
@@ -31,7 +33,11 @@ studio doesn't have. Kinds worth loading when present:
 | A saves index | whatever the person keeps of pages, reels and tools they saved | references and resources they already chose (SKILL step 2) |
 | Motion for video | `hyperframes` + `hyperframes-registry` (`tools.md`) | an animated hero clip, a launch film, any page video |
 
-Installing a skill changes the person's machine: ask once, with what it is and its licence.
+Only a skill that is not there needs a question, because installing one changes what every session
+in the project loads: ask once, with what it is, its licence and its size. On a yes, install it into
+the **project's** skills folder (`.claude/skills/<name>/`), pinned to the commit you read, with its
+licence and notice files beside it, and kept out of the project's git when it is large; never into the
+user's global skills folder, which changes every other project on the machine.
 
 ## 1. Study references first, and cite three
 
