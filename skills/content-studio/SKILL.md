@@ -1,6 +1,6 @@
 ---
 name: content-studio
-description: Read first whenever anything is to be made for people to read, watch or hear - a post, thread, article, newsletter, page, guide, listing, launch, ad, email to many, script, video, reel, short, demo, explainer, clip, carousel, thumbnail, cover, image, collage, narration, voice-over, podcast segment, music bed, or a memory film of someone's photos - for brand building, audience building, teaching, product work or personal sharing. Holds the whole production process (brief, variations, one best version shown for a pick, making it well in each medium, checks, learning from picks and results) and routes to the craft and tool references for copy, voice, channels, search, stills, generated images and video, editing, animation, audio and real people's photos. Use also for "make this better", "make it less boring", "sounds like AI", "which should I post", hooks, scripts, content ideas or a content calendar.
+description: Read first whenever anything is to be made for people to read, watch or hear - a post, thread, article, newsletter, page, guide, listing, launch, ad, email to many, script, video, reel, short, demo, explainer, clip, carousel, thumbnail, cover, image, collage, narration, voice-over, podcast segment, music bed, a website, landing page or brand identity (palette, logo, app icon), or a memory film of someone's photos - for brand building, audience building, teaching, product work or personal sharing. Holds the whole production process (brief, variations, one best version shown for a pick, making it well in each medium, checks, learning from picks and results) and routes to the craft and tool references for copy, voice, channels, search, stills, generated images and video, editing, animation, audio, web design and real people's photos. Use also for "make this better", "make it less boring", "sounds like AI", "which should I post", hooks, scripts, content ideas or a content calendar.
 ---
 
 # content-studio: making content well
@@ -69,6 +69,10 @@ Write down three to five of them with links. That is the evidence for the angles
 read it before anything else, and cite three of those pieces on the gallery with what each one does that
 yours borrows. What they chose to keep is a better guide to what they mean than any niche study.
 
+**For a page or a brand identity, study pages, not posts:** six to ten real pages of the same kind,
+measured, three cited on the gallery with what each lends (`references/web-design.md` §1). A design
+made without references, or without the installed design skills loaded, is not started yet.
+
 ### 3. Variations, then choose the best yourself
 
 Make many cheap variations before making anything well: ten to twenty hooks or titles, three to five
@@ -110,6 +114,7 @@ Make the pick properly, in its medium:
 | Words: posts, articles, pages, scripts, captions, emails to many | `references/copy.md`, `references/voice.md`, `references/channels.md` |
 | Hooks and titles for anything: the template bank and the four-layer stack | `references/hooks.md` |
 | A page meant to be found in search or cited by AI assistants | `references/search.md` |
+| A website, landing or product page, a page's layout, a brand identity (palette, type, logo, app icon), illustrations or motion on a page. **Load the installed design skills it lists first** (taste, anti-slop review, design-engineering, UX design, the person's saves) | `references/web-design.md` |
 | Stills: thumbnails, covers, carousels, quote cards, collages, lead images | `references/stills.md` |
 | A generated picture or clip (background, scene, B-roll, restoration) | `references/generation.md` |
 | Video: demos, explainers, reels, launch clips, memory films, edits | `references/video.md` |
@@ -117,7 +122,8 @@ Make the pick properly, in its medium:
 | Anyone's real photos, face or voice; personal and family content | `references/real-people.md` |
 | Which outside tool skill to use, and where this skill overrides it | `references/tools.md` |
 
-Set the words in code and keep them editable. Let AI make pictures, motion and sound. Never let a
+Set the words in code and keep them editable. Let AI make pictures, motion and sound, and never
+hand-draw an illustration as SVG: every visual comes from a real source or framework (`references/web-design.md` §5). Never let a
 model redraw a real person. Captions go on every video, because most people watch without sound.
 Every piece carries the link or tag the brief measures it by.
 

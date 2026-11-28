@@ -17,6 +17,7 @@ needs them:
 | `voice.md` | the person's own material first, answering a critique, the machine-prose tells and the sweep |
 | `channels.md` | Reddit, Show HN, Product Hunt, directories, blogs, newsletters, LinkedIn, X, Instagram, TikTok, YouTube; sizes |
 | `search.md` | measured queries, reading the results page, the novelty bar, primary sources, writing for AI assistants |
+| `web-design.md` | sites, landing pages and brand identity: design skills to load first, three cited reference pages, taste rules and the tells, type/layout/spacing/colour tokens, text budgets, visuals from real frameworks (never freehand SVG), palette and icon from references and the subject, the designer-or-agent end check |
 | `stills.md` | layout in code, generated backgrounds, carousels, product lead images, collages, thumbnails, restoration |
 | `generation.md` | hosted image and video models (dated), POST-then-poll, prompting, consistency, the invention check |
 | `video.md` | timelines and renderers, cut craft, showing a real product, captions, crops, HDR, encoding |
